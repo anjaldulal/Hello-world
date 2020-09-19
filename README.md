@@ -1,2 +1,1 @@
-# Hello-world
-Creating normal repository
+this is a normal repository created for practice purpose only
